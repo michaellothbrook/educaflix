@@ -1,0 +1,12 @@
+.cursos-automatizados {
+  background: #fff;
+  font-size: .9rem;
+  border-top: 2px solid red;
+  border-bottom: 2px solid red;
+}
+
+@media (max-width: 576px) {
+  .atributtes_bar__text {
+    font-size: .625rem;
+  }
+}

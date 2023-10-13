@@ -1,0 +1,6 @@
+section#home .course-features {
+  margin-top: 0;
+}
+.card-container .course-card__image {
+  width: 30%;
+}

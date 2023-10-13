@@ -1,0 +1,6 @@
+#first_card .course-card__title {
+  text-transform: none;
+  max-width: 45%;
+  margin: 0 auto;
+  font-size: 1rem;
+}

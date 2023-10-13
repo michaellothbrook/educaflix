@@ -1,0 +1,20 @@
+/* The component style is inserted here. */
+
+.carousel img {
+  pointer-events: inherit;
+}
+
+@media (max-width: 575px) {
+  .carousel.carousel-slider .control-arrow {
+    bottom: 50%;
+  }
+}
+
+.banner__lead  {
+  font-size: 2rem;
+  color: #FFFFFF;
+}
+
+.swiper-slide img {
+  width: 100%;
+}

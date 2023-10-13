@@ -1,0 +1,37 @@
+/* The component style is inserted here. */
+.formation-card__top-tab  {
+  border-radius: 20px;
+}
+.formation-card__title a {
+  text-transform: initial;
+  font-size: 1.3rem;
+  letter-spacing: 2px;
+}
+
+.formation-card__title a span {
+  font-weight: normal;
+}
+
+.formation-card .card {
+  background-color: transparent;
+}
+.formation-card .card-header img {
+  border-radius: 18.0183px;
+}
+.formation-card__border-b {
+  background-color: transparent;
+  max-width: 100%;
+  border-bottom: 0;
+}
+.formation-card__border-b span {
+  color: #FF0000;
+  font-weight: bold;
+}
+.formation-card__border-b a {
+  background: #FF0000;
+  border-radius: 18.0183px;
+  padding: 10px 30px;
+  color: #fff;
+  width: 100%;
+  font-weight: bold;
+}

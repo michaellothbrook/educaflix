@@ -1,0 +1,60 @@
+.plans-carousel__primary-text {
+  font-weight: 700;
+  font-size: 1.6rem;
+}
+
+.card {
+  height: 100%;
+}
+
+.categories-carousel__card__link {
+  display: contents;
+}
+
+.card-header {
+  min-height: 50px;
+}
+
+.destaque .mais {
+  display: inline-block;
+  font-weight: bold;
+  color: #fff;
+  padding: 2px 10px;
+  border-radius: 2px;
+  font-size: 1rem;
+  text-transform: uppercase;
+  background: #FF0000;
+}
+
+.plan_title {
+  padding: 0px 5px 30px 5px;
+  font-size: 28px;
+  padding: 20px 5px;
+  height: 145px;
+  font-weight: bold;
+  color: black;
+}
+
+.plan_value {
+  font-size: 2rem;
+  color: black;
+}
+
+.plan_button .button {
+  color: #fff;
+  text-transform: uppercase;
+  padding: 7px 30px;
+  background: #FF0000 !important;
+  border: none;
+}
+
+.countdown .countdown-timer span:last-child {
+  display: block;
+  font-size: 2rem;
+  color: red;
+}
+
+.countdown .title {
+  font-size: 1.3rem;
+  font-weight: bold;
+}

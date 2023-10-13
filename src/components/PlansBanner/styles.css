@@ -1,0 +1,32 @@
+/* The component style is inserted here. */
+
+.plans-banner h5 {
+  font-weight: bold;
+  font-size: 2.3rem;
+  color: #FF0000;
+  text-transform: uppercase;
+}
+
+.plans-banner .numberCourses {
+  text-transform: none;
+  font-size: 1.7rem;
+}
+
+.plans-banner h5.preco {
+  font-size: 5rem;
+}
+
+.plans-banner h5.preco span {
+  color: #FFFFFF;
+  font-size: 1.6rem;
+  text-transform: lowercase;
+}
+
+.plans-banner p {
+  font-size: 1rem;
+  color: #FFFFFF;
+}
+
+.border-b {
+  border: 1px solid #ff0000
+}

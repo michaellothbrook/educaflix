@@ -1,0 +1,7 @@
+/* The component style is inserted here. */
+
+@media (min-width: 575px) {
+  .testimonials-carousel__card-container {
+    min-height: 100%;
+  }
+}

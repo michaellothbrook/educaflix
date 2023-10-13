@@ -1,0 +1,22 @@
+.categories-carousel .react-multiple-carousel__arrow {
+  top: calc(170px / 2);
+}
+
+.react-multiple-carousel__arrow {
+  background: red;
+}
+
+.react-multiple-carousel__arrow::before {
+  font-size: 20px;
+  color: #000;
+  font-weight: bold;
+}
+
+@media (max-width: 575px) {
+  .categories-carousel__card__title {
+    font-size: 16pt;
+  }
+  .categories-carousel__card__subtitle {
+    font-size: 14pt;
+  }
+}
